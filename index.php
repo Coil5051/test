@@ -1,3 +1,6 @@
+
+
+
 <?php
 
 ?>
@@ -18,9 +21,9 @@
  <div id="lup"></div>
  <form action="index.php" name="MyForm">
  
- <input id="searchform" type="text" name="search" placeholder="Что-то ищите?"/>
+ <input id="searchform" type="text" name="search" placeholder="пїЅпїЅпїЅ-пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ?"/>
  
- <input id="searchbut" type="submit" value="Поиск"/>
+ <input id="searchbut" type="submit" value="пїЅпїЅпїЅпїЅпїЅ"/>
  
  
  
@@ -32,7 +35,7 @@
  
  <div id="registration">
  <div id="logo2"></div>
- <div id="exit"><a href="#">Войти</a> | <a href="#">Зарегистрироватся</a></div>
+ <div id="exit"><a href="#">пїЅпїЅпїЅпїЅпїЅ</a> | <a href="#">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a></div>
  
  </div>
  </div>
@@ -56,18 +59,18 @@
 <div id="secondnew"></div>
 <nav id="backg">
     <ul class="cf">
-        <li><a href="#">Планшеты</a></li>
-        <li><a class="dropdown" href="#">Смартфоны</a>
+        <li><a href="#">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a></li>
+        <li><a class="dropdown" href="#">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a>
             <ul>
                 <li><a href="#">Ipad</a></li>
                 <li><a href="#"></a></li>
-                <li><a href="#">Битые</a></li>
+                <li><a href="#">пїЅпїЅпїЅпїЅпїЅ</a></li>
             </ul>
             </li>
-        <li><a href="#">Ноутбуки</a></li>
-        <li><a href="#">Персональные компьютеры</a></li>
-        <li><a href="#">Аксессуары</a></li>
-        <li><a href="#">Наручные часы</a></li>
+        <li><a href="#">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a></li>
+        <li><a href="#">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a></li>
+        <li><a href="#">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a></li>
+        <li><a href="#">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ</a></li>
         
     </ul>
 </nav>
@@ -76,7 +79,7 @@
  
  <div id="price">
  
-<div id="topprice">Цена:</div> 
+<div id="topprice">пїЅпїЅпїЅпїЅ:</div> 
 <div id="inprice">
 <div id="inprice-left">
 
@@ -89,7 +92,7 @@
 
 <div id="inprice-right"></div>
 
-<input class="inpp" /> грн.
+<input class="inpp" /> пїЅпїЅпїЅ.
 
 
  </div>
@@ -98,18 +101,18 @@
  
  </div>
  <div id="scolor">
- Цвет
+ пїЅпїЅпїЅпїЅ
  </div>
  <div id="feature">
- <div id="topfeatures"><img src="img/triangle.png" id="triangle">Особености</div>
+ <div id="topfeatures"><img src="img/triangle.png" id="triangle">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</div>
  <div id="features"> 
  
 
  
- <input type="checkbox"> <u>Особеность 1</u> <br />
+ <input type="checkbox"> <u>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 1</u> <br />
  
- <input type="checkbox"> <u>Особеность 2</u> <br />
-<input type="checkbox"> <u>Особеность 3</u>
+ <input type="checkbox"> <u>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2</u> <br />
+<input type="checkbox"> <u>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 3</u>
  
  
  
@@ -165,33 +168,33 @@
      <div class="idbutt">
      <div class="idtov">
      <p style="font-size:12px;">
-     Код товара:<br>
-     Цена:
+     пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ:<br>
+     пїЅпїЅпїЅпїЅ:
      </p>
      </div>
      <div class="buttons">
-     <a href="#"><div class="buttonwant"><center><b>Хочу!</b></center></div></a>
-     <a href="#"><div class="buttoninfo"><center><b>Подробности</b></center></div></a><br />
+     <a href="#"><div class="buttonwant"><center><b>пїЅпїЅпїЅпїЅ!</b></center></div></a>
+     <a href="#"><div class="buttoninfo"><center><b>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</b></center></div></a><br />
      
      
      </div>
      
      </div>
      <div class="fitchers">
-        <p style="font-size:12px;"><b>Особености</b><br />
-        Цвет:<br />
-        Ядер:<br />
-        ОЗУ:
+        <p style="font-size:12px;"><b>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</b><br />
+        пїЅпїЅпїЅпїЅ:<br />
+        пїЅпїЅпїЅпїЅ:<br />
+        пїЅпїЅпїЅ:
      </p>
      
      </div>
      <div class="nalich">
      
-     <p class="agt"><a href="#"><b>В наличии</b></a></p>
+     <p class="agt"><a href="#"><b>пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ</b></a></p>
      
      </div>
  </div>
-  <div class="otziv"><a href="#">73 отзывов</a></div>
+  <div class="otziv"><a href="#">73 пїЅпїЅпїЅпїЅпїЅпїЅпїЅ</a></div>
  </div>
  </div>
  </div>
@@ -211,7 +214,7 @@
 
 <div id="footer">
 <div id="left_foot">
-<div id="about_as"> О НАС</div>
+<div id="about_as"> пїЅ пїЅпїЅпїЅ</div>
 <div id="about_bottom">
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolo 
@@ -225,15 +228,15 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 </div>
 <div id="mid_foot">
-<div id="kategories">КАТАЛОГ ТОВАРОВ</div>
+<div id="kategories">пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ</div>
 <div id="kategories_bottom">
 
 <div class="katalogs">
 
 <ul class="katalog_op">
-<a href="#"><li> Смартфоны</li></a>
-<a href="#"><li> Ноутбуки</li></a>
-<a href="#"><li> Аксессуары</li></a>
+<a href="#"><li> пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</li></a>
+<a href="#"><li> пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</li></a>
+<a href="#"><li> пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</li></a>
 </ul>
 
 
@@ -243,9 +246,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div class="katalogs">
 
 <ul class="katalog_op"> 
-<a href="#"><li> Планшеты</li></a>
-<a href="#"><li>Настольные ПК</li></a>
-<a href="#"><li>Наручные часы</li></a>
+<a href="#"><li> пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</li></a>
+<a href="#"><li>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ</li></a>
+<a href="#"><li>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ</li></a>
 </ul>
 
 
@@ -265,7 +268,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 <div id="social_foot">
 
-   <div id="social_top"> ПРИСОЕДИНЯЙТЕСЬ К НАМ!</div>
+   <div id="social_top"> пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅ!</div>
    <div id="social_bottom">
    
            <a href="#"><div class="social_net" style="background-image: url(img/Social/rsscopy.png);"></div></a>
@@ -287,7 +290,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div id="right_foot">
 
 
-<div id="contact_top"> НАШИ КОНТАКТЫ</div>
+<div id="contact_top"> пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</div>
 <div id="contact_bottom"> 
 
 Phone: 800 123 53 48<br /><br />
