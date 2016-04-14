@@ -2,15 +2,16 @@
 
 
 <?php
-
+header('Content-Type: text/html; charset=utf-8');
 ?>
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
+
 <title>Iphone magazin</title>
-	<link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="adaptive.css">
+<!--    <link rel="stylesheet" href="css/bootstrap.css">-->
+    <link rel="stylesheet" href="style.css">
+<!--    <script src="js/bootstrap.js"></script>-->
 </head>
 <body>
 <div id="main">
@@ -21,9 +22,9 @@
  <div id="lup"></div>
  <form action="index.php" name="MyForm">
  
- <input id="searchform" type="text" name="search" placeholder="���-�� �����?"/>
+ <input id="searchform" type="text" name="search" placeholder="Что-то ищите?"/>
  
- <input id="searchbut" type="submit" value="�����"/>
+ <input id="searchbut" type="submit" value="Поиск"/>
  
  
  
@@ -35,7 +36,7 @@
  
  <div id="registration">
  <div id="logo2"></div>
- <div id="exit"><a href="#">�����</a> | <a href="#">�����������������</a></div>
+ <div id="exit"><a href="#">Войти</a> | <a href="#">Зарегистрироватся</a></div>
  
  </div>
  </div>
@@ -59,18 +60,18 @@
 <div id="secondnew"></div>
 <nav id="backg">
     <ul class="cf">
-        <li><a href="#">��������</a></li>
-        <li><a class="dropdown" href="#">���������</a>
+        <li><a href="#">СМАРТФОНЫ</a></li>
+        <li><a class="dropdown" href="#">ПЛАНШЕТЫ</a>
             <ul>
                 <li><a href="#">Ipad</a></li>
                 <li><a href="#"></a></li>
-                <li><a href="#">�����</a></li>
+                <li><a href="#"></a></li>
             </ul>
             </li>
-        <li><a href="#">��������</a></li>
-        <li><a href="#">������������ ����������</a></li>
-        <li><a href="#">����������</a></li>
-        <li><a href="#">�������� ����</a></li>
+        <li><a href="#">НОУТБУКИ</a></li>
+        <li><a href="#">НАСТОЛЬНЫЕ ПК</a></li>
+        <li><a href="#">АКСЕССУАРЫ</a></li>
+        <li><a href="#">НАРУЧНЫЕ ЧАСЫ</a></li>
         
     </ul>
 </nav>
@@ -79,7 +80,7 @@
  
  <div id="price">
  
-<div id="topprice">����:</div> 
+<div id="topprice">Цена:</div>
 <div id="inprice">
 <div id="inprice-left">
 
@@ -101,18 +102,18 @@
  
  </div>
  <div id="scolor">
- ����
+ Цвет
  </div>
  <div id="feature">
- <div id="topfeatures"><img src="img/triangle.png" id="triangle">����������</div>
- <div id="features"> 
+ <div id="topfeatures"><img src="img/triangle.png" id="triangle">Особености</div>
+ <div id="features" >
  
 
- 
- <input type="checkbox"> <u>���������� 1</u> <br />
- 
- <input type="checkbox"> <u>���������� 2</u> <br />
-<input type="checkbox"> <u>���������� 3</u>
+
+ <input type="checkbox"> <u>Особеность 1</u>1</u> <br />
+
+ <input type="checkbox"> <u>Особеность 2</u> <br />
+<input type="checkbox"> <u>Особеность 3</u>
  
  
  
@@ -168,33 +169,33 @@
      <div class="idbutt">
      <div class="idtov">
      <p style="font-size:12px;">
-     ��� ������:<br>
-     ����:
+     Код товара:<br>
+     Цена:
      </p>
      </div>
      <div class="buttons">
-     <a href="#"><div class="buttonwant"><center><b>����!</b></center></div></a>
-     <a href="#"><div class="buttoninfo"><center><b>�����������</b></center></div></a><br />
+     <a href="#"><div class="buttonwant"><center><b>Купить</b></center></div></a>
+     <a href="#"><div class="buttoninfo"><center><b>Подробности</b></center></div></a><br />
      
      
      </div>
      
      </div>
      <div class="fitchers">
-        <p style="font-size:12px;"><b>����������</b><br />
-        ����:<br />
-        ����:<br />
-        ���:
+        <p style="font-size:12px;"><b>Особености</b><br />
+        Стиль:<br />
+        Ядер:<br />
+        ОЗУ:
      </p>
      
      </div>
      <div class="nalich">
      
-     <p class="agt"><a href="#"><b>� �������</b></a></p>
+     <p class="agt"><a href="#"><b>В наличии</b></a></p>
      
      </div>
  </div>
-  <div class="otziv"><a href="#">73 �������</a></div>
+  <div class="otziv"><a href="#">73 отзывов</a></div>
  </div>
  </div>
  </div>
@@ -214,7 +215,7 @@
 
 <div id="footer">
 <div id="left_foot">
-<div id="about_as"> � ���</div>
+<div id="about_as"> О НАС</div>
 <div id="about_bottom">
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolo 
@@ -228,15 +229,15 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 </div>
 <div id="mid_foot">
-<div id="kategories">������� �������</div>
+<div id="kategories">КАТАЛОГ ТОВАРОВ</div>
 <div id="kategories_bottom">
 
 <div class="katalogs">
 
 <ul class="katalog_op">
-<a href="#"><li> ���������</li></a>
-<a href="#"><li> ��������</li></a>
-<a href="#"><li> ����������</li></a>
+<a href="#"><li> Смартфоны</li></a>
+<a href="#"><li> Ноутбуки</li></a>
+<a href="#"><li> Аксессуары</li></a>
 </ul>
 
 
@@ -246,9 +247,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div class="katalogs">
 
 <ul class="katalog_op"> 
-<a href="#"><li> ��������</li></a>
-<a href="#"><li>���������� ��</li></a>
-<a href="#"><li>�������� ����</li></a>
+<a href="#"><li> Планшеты</li></a>
+<a href="#"><li>Настольные ПК</li></a>
+<a href="#"><li>Наручные часы</li></a>
 </ul>
 
 
@@ -268,7 +269,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 <div id="social_foot">
 
-   <div id="social_top"> ��������������� � ���!</div>
+   <div id="social_top"> ПРИСОЙДЕНЯЙТЕСЬ К НАМ!</div>
    <div id="social_bottom">
    
            <a href="#"><div class="social_net" style="background-image: url(img/Social/rsscopy.png);"></div></a>
@@ -290,7 +291,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div id="right_foot">
 
 
-<div id="contact_top"> ���� ��������</div>
+<div id="contact_top"> НАШИ КОНТАКТЫ</div>
 <div id="contact_bottom"> 
 
 Phone: 800 123 53 48<br /><br />
